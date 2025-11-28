@@ -38,6 +38,11 @@ Built with **Python**, **Tesseract OCR**, **OpenCV**, **spaCy**, and **Streamlit
 - **Data display:** pandas  
 
 ---
+## 🖼️ Demo
+
+![Intelligent Document Processor Demo](assets/Screenshot 2025-11-28 152315.png)
+![Intelligent Document Processor Demo](assets/Screenshot 2025-11-28 152352.png)
+---
 
 ## 📂 Project Structure
 
